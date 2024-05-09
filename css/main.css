@@ -1,0 +1,30 @@
+* {margin: 0;padding: 0;box-sizing: border-box;}
+ul { list-style: none;}
+a { color: inherit; text-decoration: underline;}
+body {
+    background-color: #fff;
+    color: #111;
+    font-size: 16px;
+}
+
+.wrap {
+}
+
+.header {
+    height: 80px;
+    background-color: #eee;
+}
+
+.header .container {
+    height: 80px;
+    background-color: gainsboro;
+}
+.header .logo img{
+    
+}
+
+.container {
+    width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
